@@ -1,0 +1,7 @@
+{
+  "name": "KAT Group - Manpower & Technical Services",
+  "description": "Premium recruitment, labor supply, and technical services platform for global industries. Empowering businesses with elite talent and industrial excellence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
