@@ -222,6 +222,7 @@ const AIAdvisor: React.FC = () => {
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={(e) => e.key === 'Enter' && handleSend()}
               placeholder="Ask a question..."
+              style={{ fontSize: '16px' }}  // Add this
               className="w-full pl-4 pr-12 py-3 bg-slate-50 border border-slate-200 rounded-xl text-[13px] focus:border-blue-500 focus:bg-white outline-none transition-all text-slate-900 shadow-inner"
             />
             <button
